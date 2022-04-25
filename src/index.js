@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import '/Users/passapolphukhang/Desktop/MBAir/Coding/WebDev105/React/poompak/src/index.css'
+import './index.css'
 
 
 class Square extends React.Component {
